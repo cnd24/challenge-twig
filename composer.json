@@ -1,0 +1,14 @@
+{
+    "name": "wilder/cindy",
+    "description": "projet challenge twig",
+    "authors": [
+        {
+            "name": "Cindy Planchenault",
+            "email": "cnd.planchenault@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.12"
+    }
+
+}
